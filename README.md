@@ -31,4 +31,4 @@ This project is licensed under the [MIT License](LICENSE).
 Special thanks to the developers of the Arduino platform and the MPU6050 sensor library for making this project possible.
 
 ## Contact
-For any inquiries or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or support, please contact [sk9905729444@gmail.com](mailto:your-email@example.com).
